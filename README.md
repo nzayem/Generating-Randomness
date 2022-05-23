@@ -2,6 +2,8 @@
 
 Simple introduction to machine learning track (in the JetBrains Academy) within a game context, where the next user input is predicted (0 or 1) based on historical data.
 
+No library was used in the program.
+
 First, the user will enter a number of characters, and the program will filter the 0 and 1 only and build a string of desired length (100 in this case).
 
 <img src="https://github.com/nzayem/Generating-Randomness/blob/master/Initial-data.png" height="200" width="650">
